@@ -1,0 +1,17 @@
+h1 {
+    font-family:sans-serif;
+    color: green;
+}
+
+p{
+    font-family: fantasy;
+    color: coral;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+ol{
+    list-style-type: upper-roman;
+}

@@ -1,0 +1,8 @@
+.gallery img{
+    width: 100%;
+    border: rgb(255, 0, 0);
+}
+
+.bio h4,h2{
+    color: rgb(255, 0, 0);
+} 
